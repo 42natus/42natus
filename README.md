@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name's Fortunatus Olorunsola. I'm currently undergoing training to become a AI-Native Software Engineer.
 
-So far, I've been working with Go, with a focus on backend architecture. 
+So far, I've been working with Go with a focus on backend architecture. 
 
 ### 🔭 What I've been up to:
 
