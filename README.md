@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name's Fortunatus Olorunsola. I'm currently undergoing training to become a AI-Native Software Engineer.
 
-So far—in my career at least—I've been working with Go, with a focus on backend architecture. 
+So far, I've been working with Go, with a focus on backend architecture. 
 
 ### 🔭 What I've been up to:
 
@@ -31,7 +31,7 @@ I've been building my programming skills and getting familiar with elementary al
 
 - [quad-checker](https://github.com/42natus/quad-checker)
 
-to explore some of the things I've been up to so far.
+to check out my work.
 
 ### 🌱 What I’m currently learning
 
