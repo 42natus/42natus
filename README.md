@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name's Fortunatus Olorunsola. I'm currently undergoing training to become a AI-Native Software Engineer.
+My name's Fortunatus Olorunsola. I'm currently undergoing training to become an AI-Native Software Engineer.
 
 So far, I've been working with Go with a focus on backend architecture. 
 
