@@ -63,7 +63,7 @@ Check out my work:
 
 ---
 
-I've also been writing to my [blog](fortunatus-notes.hashnode.dev) and recently started compiling a [collection](https://github.com/42natus/til) of brief notes on things I learn related to my career.
+I've also been writing to my [blog](https://fortunatus-notes.hashnode.dev) and recently started compiling a [collection](https://github.com/42natus/til) of brief notes on things I learn related to my career.
 
 ### 🌱 What I’m currently learning
 
