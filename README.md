@@ -27,7 +27,7 @@ In the past 3 months, I've completed TOP's [Foundations](https://www.theodinproj
 
 - doing a few of the classic 'intro to programming' problems, 
 
-- writing little CLI games to build my knowledge of OOP, file handling, and serialization. 
+- writing little CLI games to level up my understanding of OOP, file handling, and serialization. 
 
 Check out my work:
 
@@ -63,7 +63,7 @@ Check out my work:
 
 ---
 
-I've also been writing to my [blog](https://fortunatus-notes.hashnode.dev) and recently started compiling a [collection](https://github.com/42natus/til) of brief notes on things I learn related to my career.
+I've also been writing to my [blog](https://fortunatus-notes.hashnode.dev) and recently started compiling a [collection](https://github.com/42natus/til) of brief notes on things I learn that are related to my career.
 
 ### 🌱 What I’m currently learning
 
@@ -85,7 +85,7 @@ You can send me an email 📧 at [fortunatus.olorunsola@gmail.com](mailto:fortun
 
 5. In 2025, I graduated with a BSc. in Computer Science from the [Air Force Institute of Technology](https://afit.edu.ng/home/) in Kaduna, Nigeria. 
 
-6. This is my first year actually learning to code so I can *build* things. Not just for the sake of learning syntax. This time I'm ready to... **Go** (hehehe 😂).
+6. This is my first year actually learning to code so I can *build* things. Not just for the sake of learning syntax.
 
 7. I like (tech) puns.
 
